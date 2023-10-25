@@ -1,2 +1,2 @@
-# android-maven-repository-
+# android-maven-repository
 Android maven repositories. Github Maven仓库
