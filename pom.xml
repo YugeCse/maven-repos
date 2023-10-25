@@ -1,0 +1,6 @@
+<repositories>
+    <repository>
+        <id>zaobao-maven-repo</id>
+        <url>https://raw.githubusercontent.com/SPHTech-CQ/android-maven-repository/master/repo</url>
+    </repository>
+</repositories>
