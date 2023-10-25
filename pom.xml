@@ -1,6 +1,12 @@
-<repositories>
-    <repository>
-        <id>zaobao-maven-repo</id>
-        <url>https://raw.githubusercontent.com/SPHTech-CQ/android-maven-repository/master/repo</url>
-    </repository>
-</repositories>
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.sg.android</groupId>
+    <artifactId>network</artifactId>
+    <version>1.1.5</version>
+    <repositories>
+        <repository>
+            <id>zaobao-maven-repo</id>
+            <url>https://raw.githubusercontent.com/SPHTech-CQ/android-maven-repository/master/repo</url>
+        </repository>
+    </repositories>
+</project>
