@@ -3,7 +3,7 @@ Android maven repositories. Github Maven仓库
 
 <table style="text-align:center">
    <tr><th>名称</th><td>最新版本</td><td>修订日期</td></tr>
-   <tr><td>Network</td><td>1.1.5</td><td>2023/10/27</td></tr>
+   <tr><td>Network</td><td>1.1.5-3</td><td>2023/11/03</td></tr>
    <tr><td>Common</td><td>1.1.5</td><td>2023/10/20</td></tr>
    <tr><td>Common-Compose</td><td>1.0.1</td><td>2023/10/26</td></tr>
 </table>
@@ -53,5 +53,10 @@ Android maven repositories. Github Maven仓库
 
 # What's Changed?
 
-+ **Common-v1.1.5** ； 2023/10/27 10:57am
++ **Network-v1.1.5-3** [2023/11/03 04:38pm]
+  1.Network发布版本v1.1.5-3；
+  2.修复文件下载器的进度通知问题。
+
++ **Common-v1.1.5** [2023/10/27 10:57am]
   去掉EventBus的依赖。
+
