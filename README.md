@@ -3,7 +3,7 @@ Android maven repositories. Github Maven仓库
 
 <table style="text-align:center">
    <tr><th>名称</th><td>最新版本</td><td>修订日期</td></tr>
-   <tr><td>Network</td><td>1.1.5-3</td><td>2023/11/03</td></tr>
+   <tr><td>Network</td><td>1.1.5-4</td><td>2023/11/03</td></tr>
    <tr><td>Common</td><td>1.1.5</td><td>2023/10/20</td></tr>
    <tr><td>Common-Compose</td><td>1.0.1</td><td>2023/10/26</td></tr>
 </table>
@@ -39,7 +39,7 @@ Android maven repositories. Github Maven仓库
    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2") //必选
    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.2") //必选
    implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.6.2") //必选
-   implementation("com.sg.android:network:1.1.5")   //以上内容针对network是必选项，引入network的必须引入以上内容
+   implementation("com.sg.android:network:1.1.5-4")   //以上内容针对network是必选项，引入network的必须引入以上内容
    ```
    引入 common 的 Maven
    ```kts
@@ -54,7 +54,7 @@ Android maven repositories. Github Maven仓库
 # What's Changed?
 
 + **Network-v1.1.5-3** [2023/11/03 04:38pm]
-  1.Network发布版本v1.1.5-3；
+  1.Network发布版本v1.1.5-4；
   2.修复文件下载器的进度通知问题。
 
 + **Common-v1.1.5** [2023/10/27 10:57am]
