@@ -53,6 +53,9 @@ Android maven repositories. Github Maven仓库
 
 # What's Changed?
 
++ **Common-v1.1.6** [2023/11/23 03:54pm]
+  删除不需要的资源文件。
+
 + **Network-v1.1.5-3** [2023/11/03 04:38pm]
   1.Network发布版本v1.1.5-4；
   2.修复文件下载器的进度通知问题。
