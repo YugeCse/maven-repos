@@ -6,6 +6,7 @@ Android maven repositories. Github Maven仓库
    <tr><td>Network</td><td>1.1.5-4</td><td>2023/11/03</td></tr>
    <tr><td>Common</td><td>1.1.6</td><td>2023/11/23</td></tr>
    <tr><td>Common-Compose</td><td>1.0.1</td><td>2023/10/26</td></tr>
+   <tr><td>Shimmer</td><td>1.0.1</td><td>2023/11/27</td></tr>
 </table>
 
 ## Common & Network & Tracking
@@ -13,7 +14,8 @@ Android maven repositories. Github Maven仓库
 - Common: 负责公共类、常用方法以及常用组件等内容；
 - Network: 负责网络模块，使用 Okhttp+Retrofit+Coroutine；
 - Tracking: 埋点处理类，负责埋点记录、埋点上传等工作；
-- Common-Compose：依赖于Common库，需要Implementation("compose-foundation")。
+- Common-Compose：依赖于Common库，需要Implementation("compose-foundation");
+- Shimmer: shimmer闪光Loading库，源自facebook:shimmer-android。
 
 注意：集成需要配置以下内容到项目
 
@@ -49,6 +51,11 @@ Android maven repositories. Github Maven仓库
    implementation("com.tencent:mmkv:1.3.1") //必选
    implementation("org.greenrobot:eventbus:3.3.1") //必选，1.1.5及之后的不再是必选
    implementation("com.sg.android:common:1.1.5")   //以上内容针对common是必选项，引入network的必须引入以上内容
+   ```
+
+   引用 shimmer 的 Maven
+   ```kts
+   implementation("com.sg.android:shimmer:1.0.1")
    ```
 
 # What's Changed?
