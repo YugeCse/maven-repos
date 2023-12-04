@@ -41,7 +41,7 @@ Android maven repositories. Github Maven仓库
    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2") //必选
    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.2") //必选
    implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.6.2") //必选
-   implementation("com.sg.android:network:1.1.5-4")   //以上内容针对network是必选项，引入network的必须引入以上内容
+   implementation("com.sg.android:network:1.1.6")   //以上内容针对network是必选项，引入network的必须引入以上内容
    ```
    引入 common 的 Maven
    ```kts
