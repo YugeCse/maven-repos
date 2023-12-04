@@ -3,7 +3,7 @@ Android maven repositories. Github Maven仓库
 
 <table style="text-align:center">
    <tr><th>名称</th><td>最新版本</td><td>修订日期</td></tr>
-   <tr><td>Network</td><td>1.1.5-4</td><td>2023/11/03</td></tr>
+   <tr><td>Network</td><td>1.1.6</td><td>2023/12/04</td></tr>
    <tr><td>Common</td><td>1.1.6</td><td>2023/11/23</td></tr>
    <tr><td>Common-Compose</td><td>1.0.1</td><td>2023/10/26</td></tr>
    <tr><td>Shimmer</td><td>1.0.1</td><td>2023/11/27</td></tr>
@@ -60,13 +60,16 @@ Android maven repositories. Github Maven仓库
 
 # What's Changed?
 
-+ **Common-v1.1.6** [2023/11/23 03:54pm]
-  删除不需要的资源文件。
++ **Network-v1.1.6** ； 2023/12/04 05:00pm
+  + 网络库Release模式下，接口请求前会判断网络有无。
 
-+ **Network-v1.1.5-3** [2023/11/03 04:38pm]
-  1.Network发布版本v1.1.5-4；
-  2.修复文件下载器的进度通知问题。
++ **Common-v1.1.6** ； 2023/11/23 04:01pm
+  + 删除多余的资源文件，新增数据流到文件的转换方法。
 
-+ **Common-v1.1.5** [2023/10/27 10:57am]
-  去掉EventBus的依赖。
++ **Network-v1.1.5-4** ； 2023/11/03 05:30pm
+  + 1.Network发布版本v1.1.5-4；
+  + 2.修复文件下载器的进度通知问题。
+
++ **Common-v1.1.5** ； 2023/10/27 10:57am
+  + 去掉EventBus的依赖。
 
