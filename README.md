@@ -4,7 +4,7 @@ Android maven repositories. Github Maven仓库
 <table style="text-align:center">
    <tr><th>名称</th><td>最新版本</td><td>修订日期</td></tr>
    <tr><td>Network</td><td>1.1.6</td><td>2023/12/04</td></tr>
-   <tr><td>Common</td><td>1.1.6</td><td>2023/11/23</td></tr>
+   <tr><td>Common</td><td>1.1.6-1</td><td>2023/12/05</td></tr>
    <tr><td>Common-Compose</td><td>1.0.1</td><td>2023/10/26</td></tr>
    <tr><td>Shimmer</td><td>1.0.1</td><td>2023/11/27</td></tr>
 </table>
@@ -50,7 +50,7 @@ Android maven repositories. Github Maven仓库
    implementation("com.google.code.gson:gson:2.10.1") //必选
    implementation("com.tencent:mmkv:1.3.1") //必选
    implementation("org.greenrobot:eventbus:3.3.1") //必选，1.1.5及之后的不再是必选
-   implementation("com.sg.android:common:1.1.5")   //以上内容针对common是必选项，引入network的必须引入以上内容
+   implementation("com.sg.android:common:1.1.6-1")   //以上内容针对common是必选项，引入network的必须引入以上内容
    ```
 
    引用 shimmer 的 Maven
@@ -59,6 +59,9 @@ Android maven repositories. Github Maven仓库
    ```
 
 # What's Changed?
+
++ **Network-v1.1.6** ； 2023/12/05 01:40pm
+  + 公共库dimen资源增加806dpi和886dpi。
 
 + **Network-v1.1.6** ； 2023/12/04 05:00pm
   + 网络库Release模式下，接口请求前会判断网络有无。
