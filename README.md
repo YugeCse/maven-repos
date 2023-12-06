@@ -19,7 +19,9 @@ Android maven repositories. Github Maven仓库
 
 # 扩展库
 - Shimmer: shimmer闪光Loading库，源自facebook:shimmer-android;
+  集成方式：implementation("com.sg.android:shimmer") - 原包名保留
 - Compressor: 图片压缩库，因原作者不再维护，Fork后的自己维护的版本。
+  集成方式：implementation("com.sg.android:compressor") - 原包名保留
 
 注意：集成需要配置以下内容到项目
 
