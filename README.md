@@ -66,7 +66,7 @@ Android maven repositories. Github Maven仓库
 
 # What's Changed?
 
-+ **Common-v1.1.6** ； 2023/12/05 01:40pm
++ **Common-v1.1.6-1** ； 2023/12/05 01:40pm
   + Common库dimen资源增加806dpi和886dpi。
 
 + **Network-v1.1.6** ； 2023/12/04 05:00pm
