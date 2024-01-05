@@ -6,6 +6,7 @@ Android maven repositories. Github Maven仓库
    <tr><td>Network</td><td>1.1.6</td><td>2023/12/04</td></tr>
    <tr><td>Common</td><td>1.1.6-1</td><td>2023/12/05</td></tr>
    <tr><td>Common-Compose</td><td>1.0.1</td><td>2023/10/26</td></tr>
+   <tr><td>tracking</td><td>1.0.0</td><td>2024/01/05</td></tr>
    <tr><td>Shimmer</td><td>1.0.1</td><td>2023/11/27</td></tr>
    <tr><td>Image-Compressor</td><td>3.0.2</td><td>2023/12/06</td></tr>
 </table>
@@ -65,6 +66,9 @@ Android maven repositories. Github Maven仓库
    ```
 
 # What's Changed?
+
++ **Tracking-v1.0.0** ； 2024/01/05 09:30pm
+  + 埋点库发布V1.0.0
 
 + **Common-v1.1.6-1** ； 2023/12/05 01:40pm
   + Common库dimen资源增加806dpi和886dpi。
