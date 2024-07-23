@@ -6,6 +6,6 @@ Android maven repositories. Github Maven仓库
    <tr><td style="text-align:left">Network</td><td>2.0.0</td><td>2024/07/18</td><td>Hwang</td></tr>
    <tr><td style="text-align:left">Common</td><td>2.0.0</td><td>2024/07/18</td><td>Hwang</td></tr>
    <tr><td style="text-align:left">Common-Compose</td><td>2.0.0</td><td>2024/07/18</td><td>Hwang</td></tr>
-   <tr><td style="text-align:left">Tracking</td><td>2.0.0</td><td>2024/07/18</td><td>Hwang</td></tr>
+   <tr><td style="text-align:left">Tracking</td><td>2.0.2</td><td>2024/07/23</td><td>Hwang</td></tr>
    <tr><td style="text-align:left">ABTest</td><td>2.0.0</td><td>2024/07/18</td><td>Hwang</td></tr>
 </table>
