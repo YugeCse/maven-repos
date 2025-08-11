@@ -8,5 +8,5 @@ Android maven repositories. Github Maven仓库
    <tr><td style="text-align:left">Common-Compose</td><td>2.1.3-20250730</td><td>2025/07/30</td><td>Hwang</td></tr>
    <tr><td style="text-align:left">Tracking</td><td>2.1.6-20250722</td><td>2025/07/22</td><td>Hwang</td></tr>
    <tr><td style="text-align:left">ABTest</td><td>2.0.3-20250627</td><td>2025/06/27</td><td>Hwang</td></tr>
-   <tr><td style="text-align:left">MessageCentral</td><td>1.0.0-20250808</td><td>2025/08/08</td><td>Hwang</td></tr>
+   <tr><td style="text-align:left">MessageCentral</td><td>1.0.1-20250811</td><td>2025/08/11</td><td>Hwang</td></tr>
 </table>
