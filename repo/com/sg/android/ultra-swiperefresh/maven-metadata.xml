@@ -3,11 +3,12 @@
   <groupId>com.sg.android</groupId>
   <artifactId>ultra-swiperefresh</artifactId>
   <versioning>
-    <latest>1.0.0-20250910</latest>
-    <release>1.0.0-20250910</release>
+    <latest>1.0.1-20250930</latest>
+    <release>1.0.1-20250930</release>
     <versions>
       <version>1.0.0-20250910</version>
+      <version>1.0.1-20250930</version>
     </versions>
-    <lastUpdated>20250910061442</lastUpdated>
+    <lastUpdated>20250930015902</lastUpdated>
   </versioning>
 </metadata>
