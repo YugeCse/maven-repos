@@ -12,5 +12,5 @@ Android maven repositories. Github Maven仓库
    <tr><td style="text-align:left">ZaobaoAdvert</td><td>1.0.1-20250827</td><td>2025/08/27</td><td>Hwang</td></tr>
    <tr><td style="text-align:left">GoogleAdvert</td><td>1.0.1-20250827</td><td>2025/08/27</td><td>Hwang</td></tr>
    <tr><td style="text-align:left">UltraSwipeRefresh</td><td>1.0.2-20251203</td><td>2025/12/03</td><td>Hwang</td></tr>  
-   <tr><td style="text-align:left">VotePoll</td><td>1.0.0-20251205</td><td>2025/12/05</td><td>Hwang</td></tr>
+   <tr><td style="text-align:left">VotePoll</td><td>1.0.0-20251205-1</td><td>2025/12/05</td><td>Hwang</td></tr>
 </table>
