@@ -3,13 +3,14 @@
   <groupId>com.sg.android</groupId>
   <artifactId>vote-poll</artifactId>
   <versioning>
-    <latest>1.0.0-20251205</latest>
-    <release>1.0.0-20251205</release>
+    <latest>1.0.0-20251205-1</latest>
+    <release>1.0.0-20251205-1</release>
     <versions>
       <version>1.0.0-20251127</version>
       <version>1.0.0-20251201</version>
       <version>1.0.0-20251205</version>
+      <version>1.0.0-20251205-1</version>
     </versions>
-    <lastUpdated>20251205072633</lastUpdated>
+    <lastUpdated>20251205090919</lastUpdated>
   </versioning>
 </metadata>
