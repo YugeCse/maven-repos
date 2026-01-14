@@ -6,7 +6,7 @@ Android maven repositories. Github Maven仓库
    <tr><td style="text-align:left">Network</td><td>2.1.6-20251126-1</td><td>2025/11/26</td><td>Hwang</td></tr>
    <tr><td style="text-align:left">Common</td><td>2.1.7-20251117</td><td>2025/11/17</td><td>Hwang</td></tr>
    <tr><td style="text-align:left">Common-Compose</td><td>2.1.7-20251216</td><td>2025/12/16</td><td>Hwang</td></tr>
-   <tr><td style="text-align:left">Tracking</td><td>2.1.6-20250722</td><td>2025/07/22</td><td>Hwang</td></tr>
+   <tr><td style="text-align:left">Tracking</td><td>2.1.9-20260114</td><td>2026/01/14</td><td>Hwang</td></tr>
    <tr><td style="text-align:left">ABTest</td><td>2.0.3-20250627</td><td>2025/06/27</td><td>Hwang</td></tr>
    <tr><td style="text-align:left">MessageCentral</td><td>1.0.3-20250812</td><td>2025/08/12</td><td>Hwang</td></tr>
    <tr><td style="text-align:left">ZaobaoAdvert</td><td>1.0.3-20251219-1</td><td>2025/12/19</td><td>Hwang</td></tr>
