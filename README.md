@@ -3,10 +3,10 @@ Android maven repositories. Github Maven仓库
 
 <table style="text-align:center">
    <tr><th width="30%" style="text-align:left">名称</th><td width="30%">最新版本</td><td>修订日期</td><td>修订人</td></tr>
-   <tr><td style="text-align:left">Network</td><td>2.1.7-20260115</td><td>2026/01/15</td><td>Hwang</td></tr>
-   <tr><td style="text-align:left">Common</td><td>2.1.7-20260119</td><td>2026/01/19</td><td>Hwang</td></tr>
+   <tr><td style="text-align:left">Network</td><td>2.1.7-20260119</td><td>2026/01/19</td><td>Hwang</td></tr>
+   <tr><td style="text-align:left">Common</td><td>2.1.7-20260119-1</td><td>2026/01/19</td><td>Hwang</td></tr>
    <tr><td style="text-align:left">Common-Compose</td><td>2.1.7-20251216</td><td>2025/12/16</td><td>Hwang</td></tr>
-   <tr><td style="text-align:left">Tracking</td><td>2.1.9-20260114</td><td>2026/01/14</td><td>Hwang</td></tr>
+   <tr><td style="text-align:left">Tracking</td><td>2.1.9-20260119</td><td>2026/01/19</td><td>Hwang</td></tr>
    <tr><td style="text-align:left">ABTest</td><td>2.0.3-20250627</td><td>2025/06/27</td><td>Hwang</td></tr>
    <tr><td style="text-align:left">MessageCentral</td><td>1.0.3-20250812</td><td>2025/08/12</td><td>Hwang</td></tr>
    <tr><td style="text-align:left">ZaobaoAdvert</td><td>1.0.3-20251219-1</td><td>2025/12/19</td><td>Hwang</td></tr>
