@@ -3,8 +3,8 @@
   <groupId>com.sg.android</groupId>
   <artifactId>vote-poll</artifactId>
   <versioning>
-    <latest>1.0.0-20251219-rc1</latest>
-    <release>1.0.0-20251219-rc1</release>
+    <latest>1.0.1-20260120-rc</latest>
+    <release>1.0.1-20260120-rc</release>
     <versions>
       <version>1.0.0-20251127</version>
       <version>1.0.0-20251201</version>
@@ -12,7 +12,8 @@
       <version>1.0.0-20251205-1</version>
       <version>1.0.0-20251209</version>
       <version>1.0.0-20251219-rc1</version>
+      <version>1.0.1-20260120-rc</version>
     </versions>
-    <lastUpdated>20251219095814</lastUpdated>
+    <lastUpdated>20260120081235</lastUpdated>
   </versioning>
 </metadata>
