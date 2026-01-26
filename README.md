@@ -15,4 +15,4 @@ Android maven repositories. Github Maven仓库
 | ZaobaoAdvert      | 1.0.3-20251219-1  | 2025/12/19 | Hwang |
 | GoogleAdvert      | 1.0.1-20250827    | 2025/08/27 | Hwang |
 | UltraSwipeRefresh | 1.0.3-20251216    | 2025/12/16 | Hwang |
-| VotePoll          | 1.0.1-20260126-rc3 | 2026/01/26 | Hwang |
+| VotePoll          | 1.0.1-20260126-rc4 | 2026/01/26 | Hwang |
