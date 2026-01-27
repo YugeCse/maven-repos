@@ -1,16 +1,18 @@
 # android-maven-repository
 Android maven repositories. Github Maven仓库
 
-<table style="text-align:center">
-   <tr><th width="30%" style="text-align:left">名称</th><td width="30%">最新版本</td><td>修订日期</td><td>修订人</td></tr>
-   <tr><td style="text-align:left">Network</td><td>2.1.6-20251126-1</td><td>2025/11/26</td><td>Hwang</td></tr>
-   <tr><td style="text-align:left">Common</td><td>2.1.7-20251117</td><td>2025/11/17</td><td>Hwang</td></tr>
-   <tr><td style="text-align:left">Common-Compose</td><td>2.1.7-20251216</td><td>2025/12/16</td><td>Hwang</td></tr>
-   <tr><td style="text-align:left">Tracking</td><td>2.1.6-20250722</td><td>2025/07/22</td><td>Hwang</td></tr>
-   <tr><td style="text-align:left">ABTest</td><td>2.0.3-20250627</td><td>2025/06/27</td><td>Hwang</td></tr>
-   <tr><td style="text-align:left">MessageCentral</td><td>1.0.3-20250812</td><td>2025/08/12</td><td>Hwang</td></tr>
-   <tr><td style="text-align:left">ZaobaoAdvert</td><td>1.0.3-20251219</td><td>2025/12/19</td><td>Hwang</td></tr>
-   <tr><td style="text-align:left">GoogleAdvert</td><td>1.0.1-20250827</td><td>2025/08/27</td><td>Hwang</td></tr>
-   <tr><td style="text-align:left">UltraSwipeRefresh</td><td>1.0.3-20251216</td><td>2025/12/16</td><td>Hwang</td></tr>  
-   <tr><td style="text-align:left">VotePoll</td><td>1.0.0-20251209</td><td>2025/12/09</td><td>Hwang</td></tr>
-</table>
+### 最新版本信息
+
+| SDK名称             | 最新版本              | 修订日期       | 修订人   |
+|:------------------|:------------------|------------|-------|
+| Network           | 2.1.7-20260119-1  | 2026/01/19 | Hwang |
+| Common            | 2.1.7-20260119-1  | 2026/01/19 | Hwang |
+| Common-Compose    | 2.1.8-20260119    | 2026/01/19 | Hwang |
+| Common-Theme      | 2.0.1-20260119    | 2026/01/19 | Hwang |
+| Tracking          | 2.1.9-20260119    | 2026/01/19 | Hwang |
+| ABTest            | 2.0.4-20250722    | 2025/07/22 | Hwang |
+| MessageCentral    | 1.0.3-20250812    | 2025/08/12 | Hwang |
+| ZaobaoAdvert      | 1.0.3-20251219-1  | 2025/12/19 | Hwang |
+| GoogleAdvert      | 1.0.1-20250827    | 2025/08/27 | Hwang |
+| UltraSwipeRefresh | 1.0.3-20251216    | 2025/12/16 | Hwang |
+| VotePoll          | 1.0.1-20260126-rc4 | 2026/01/26 | Hwang |
