@@ -14,5 +14,5 @@ Android maven repositories. Github Maven仓库
 | MessageCentral    | 1.0.3-20250812    | 2025/08/12 | Hwang |
 | ZaobaoAdvert      | 1.0.3-20251219-1  | 2025/12/19 | Hwang |
 | GoogleAdvert      | 1.0.1-20250827    | 2025/08/27 | Hwang |
-| UltraSwipeRefresh | 1.4.2-20260128-rc1    | 2026/01/28 | Hwang |
+| UltraSwipeRefresh | 1.4.2-20260128-rc2 | 2026/01/28 | Hwang |
 | VotePoll          | 1.0.1-20260127 | 2026/01/27 | Hwang |
