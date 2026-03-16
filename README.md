@@ -6,7 +6,7 @@ Android maven repositories. Github Maven仓库
 | SDK名称             | 最新版本              | 修订日期       | 修订人   |
 |:------------------|:------------------|------------|-------|
 | Network           | 2.1.7-20260119-1  | 2026/01/19 | Hwang |
-| Common            | 2.1.8-20260303  | 2026/03/03 | Hwang |
+| Common            | 2.1.8-20260316    | 2026/03/16 | Hwang |
 | Common-Compose    | 2.1.9-20260303    | 2026/03/03 | Hwang |
 | Common-Theme      | 2.0.2-20260303    | 2026/03/03 | Hwang |
 | Tracking          | 2.1.9-20260119    | 2026/01/19 | Hwang |
